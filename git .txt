@@ -1,0 +1,20 @@
+
+
+// How to ignore files from a repo's 
+
+// github has a limit to add 100mb per repo 
+// .gitignore
+
+
+
+
+Task
+1.Implement and Practice .gitignore
+2.Try to implement readline-sync, chalk, figlet,gradient-string
+3.Push the code to GitHub and add Suhail as a collab
+4.Learn more about Nodejs and Promises
+
+
+deadline 10:00 PM 
+report
+

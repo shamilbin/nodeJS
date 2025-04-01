@@ -1,0 +1,15 @@
+{
+  "name": "zomato",
+  "version": "1.0.0",
+  "description": "foodApp",
+  "main": "app.js",
+  "scripts": {
+    "test": "zomato,food app, first project"
+  },
+  "author": "shamil",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "readline-sync": "^1.4.10"
+  }
+}

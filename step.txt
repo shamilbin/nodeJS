@@ -1,0 +1,10 @@
+
+
+
+// To Start Any Backend Project
+1. npm init or npm init -y
+2. To install any package --> npm intstall packageName or npm i packageName
+
+
+
+//      to start anybback end project
