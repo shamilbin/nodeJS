@@ -14,3 +14,4 @@ console.log(chalk.redBright('Hello world!'));
 console.log(chalk.yellowBright.bgRed.bold('Hello world!'));
 
 console.log(chalk.red('Hello', chalk.underline.bgBlue('world') + '!'));
+console.log(chalk.red('Hello', chalk.underline.bgBlue('world') + '!'));
